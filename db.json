@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "nom": "Casque JBL T660 BT Noir",
+      "image": "https://www.gforcedistribution.com/5442-large_default/casque-jbl-t660-bt-noir.jpg",
+      "dimension":"400px",
+      "prix": "349,00 TND",
+      "id": 1
+    },
+    {
+      "nom": "Casque Bluetooth JBL",
+      "image": "https://darty.tn/product/image/medium/d10330145_casque-bluetooth-jbl-live-500-rouge.jpg",
+      "dimension":"400px",
+      "prix": "585.000 TND",
+      "id": 2
+    },
+    {
+      "nom": "Jbl Reflect Mini NC",
+      "image": "https://media.ldlc.com/r1600/ld/products/00/05/74/89/LD0005748906_1.jpg",
+      "dimension":"400px",
+      "prix": "485.000 TND",
+      "id": 3
+    }
+  ]
+}
