@@ -22,3 +22,14 @@ Development -> Test -> Livraison
 First thing is the sprint plan meeting
 and a daily meeting with 15 minutes (what did you do) what did you get stuck on (what will you do)
 sprint revew meeting => with the client 
+
+Client Side Programing Language
+ES6 => ecmascript 6 catch,map
+
+Iterface of programing for XML/HTML
+ReactJS is a single page application and it changes
+JSX virtual DOM like live server and components
+class based component 
+Most important version is 16.8
+hooks like useState Gestion of state 
+Create Read Update Delete 
